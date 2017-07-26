@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="200dip"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerInParent="true">
+
+        <EditText
+            android:id="@+id/edit_username"
+            android:layout_width="match_parent"
+            android:layout_height="40dip"
+            android:background="@drawable/shape_edittext_bg"
+            android:hint="请输入用户名"
+            android:inputType="text"
+            android:textColorHint="#59ad20"
+            android:padding="10dip"
+            android:gravity="center"
+            android:textColor="#59ad20"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/edit_password"
+            android:layout_marginTop="20dip"
+            android:layout_width="match_parent"
+            android:layout_height="40dip"
+            android:background="@drawable/shape_edittext_bg"
+            android:hint="请输入密码"
+            android:inputType="textPassword"
+            android:textColorHint="#59ad20"
+            android:padding="10dip"
+            android:gravity="center"
+            android:textColor="#59ad20"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/btn_login"
+            android:layout_marginTop="20dip"
+            android:layout_width="match_parent"
+            android:layout_height="40dip"
+            android:background="@drawable/shape_edittext_bg"
+            android:text="登陆"
+            android:textSize="20sp"/>
+    </LinearLayout>
+</RelativeLayout>

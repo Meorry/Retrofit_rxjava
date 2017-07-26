@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\AndroidStudy\\cloudemusic\\RetrofitRxjavaDemo\\commonutils\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\bg_dialog_devider.png",
+        "source": "E:\\AndroidStudy\\cloudemusic\\RetrofitRxjavaDemo\\commonutils\\src\\main\\res\\mipmap-xxxhdpi\\bg_dialog_devider.png"
+    },
+    {
+        "merged": "E:\\AndroidStudy\\cloudemusic\\RetrofitRxjavaDemo\\commonutils\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\bg_dialog_frame_notitle.png",
+        "source": "E:\\AndroidStudy\\cloudemusic\\RetrofitRxjavaDemo\\commonutils\\src\\main\\res\\mipmap-xxxhdpi\\bg_dialog_frame_notitle.png"
+    },
+    {
+        "merged": "E:\\AndroidStudy\\cloudemusic\\RetrofitRxjavaDemo\\commonutils\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\icon_view_skills_left.png",
+        "source": "E:\\AndroidStudy\\cloudemusic\\RetrofitRxjavaDemo\\commonutils\\src\\main\\res\\mipmap-xxxhdpi\\icon_view_skills_left.png"
+    },
+    {
+        "merged": "E:\\AndroidStudy\\cloudemusic\\RetrofitRxjavaDemo\\commonutils\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\bg_common_dialog_tran_s.png",
+        "source": "E:\\AndroidStudy\\cloudemusic\\RetrofitRxjavaDemo\\commonutils\\src\\main\\res\\mipmap-xxxhdpi\\bg_common_dialog_tran_s.png"
+    },
+    {
+        "merged": "E:\\AndroidStudy\\cloudemusic\\RetrofitRxjavaDemo\\commonutils\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\btn_common.png",
+        "source": "E:\\AndroidStudy\\cloudemusic\\RetrofitRxjavaDemo\\commonutils\\src\\main\\res\\mipmap-xxxhdpi\\btn_common.png"
+    },
+    {
+        "merged": "E:\\AndroidStudy\\cloudemusic\\RetrofitRxjavaDemo\\commonutils\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\bg_dialog_frame.png",
+        "source": "E:\\AndroidStudy\\cloudemusic\\RetrofitRxjavaDemo\\commonutils\\src\\main\\res\\mipmap-xxxhdpi\\bg_dialog_frame.png"
+    },
+    {
+        "merged": "E:\\AndroidStudy\\cloudemusic\\RetrofitRxjavaDemo\\commonutils\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\icon_top_tishixinxi.png",
+        "source": "E:\\AndroidStudy\\cloudemusic\\RetrofitRxjavaDemo\\commonutils\\src\\main\\res\\mipmap-xxxhdpi\\icon_top_tishixinxi.png"
+    },
+    {
+        "merged": "E:\\AndroidStudy\\cloudemusic\\RetrofitRxjavaDemo\\commonutils\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\btn_common_blue.png",
+        "source": "E:\\AndroidStudy\\cloudemusic\\RetrofitRxjavaDemo\\commonutils\\src\\main\\res\\mipmap-xxxhdpi\\btn_common_blue.png"
+    },
+    {
+        "merged": "E:\\AndroidStudy\\cloudemusic\\RetrofitRxjavaDemo\\commonutils\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\icon_view_skills_right.png",
+        "source": "E:\\AndroidStudy\\cloudemusic\\RetrofitRxjavaDemo\\commonutils\\src\\main\\res\\mipmap-xxxhdpi\\icon_view_skills_right.png"
+    }
+]
